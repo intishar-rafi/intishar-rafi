@@ -10,6 +10,6 @@ Hi there, I'm Intishar 👋<br><br>I'm Currently pursuing my masters in Image An
 
 
 ---
-[![](https://komarev.com/ghpvc/?username=intishar-rafi&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
