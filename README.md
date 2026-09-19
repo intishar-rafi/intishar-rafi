@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi there, I'm Intishar 👋<br><br>I'm Currently pursuing my masters in Image Analysis & Machine Learning with specialization in biomedical applications. Besides this, I spend my time on developing skills in ML Platform Engineering and AI intregated applications.<br><br>Here you'll find some of the projects I've worked developed or am currently working on. Feel free to explore my pinned repos below to get a sense of my work!
 
 
